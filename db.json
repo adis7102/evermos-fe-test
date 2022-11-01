@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "Backpack pria",
+      "rating": 4,
+      "price": 400000,
+      "image": "https://lzd-img-global.slatic.net/g/p/f235f5de90a84f3ecb1f18367d405406.jpg_720x720q80.jpg_.webp",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "tag": "fashion"
+    },
+    {
+      "id": 2,
+      "productName": "Jam tangan emas",
+      "rating": 4,
+      "price": 650000,
+      "image": "https://sijoritoday.com/wp-content/uploads/2022/08/IMG-20220821-WA0000.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "tag": "accessories"
+    },
+    {
+      "id": 3,
+      "productName": "Iphone 14",
+      "rating": 5,
+      "price": 12000000,
+      "image": "https://media.croma.com/image/upload/v1662703105/Croma%20Assets/Communication/Mobiles/Images/261963_oqrd6j.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "tag": "gadget"
+    },
+    {
+      "id": 4,
+      "productName": "Macbook pro",
+      "rating": 4,
+      "price": 21000000,
+      "image": "https://macstore.id/konten/uploads/2020/12/mbp-silver-gallery2-202011_GEO_US.jpeg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "tag": "gadget"
+    },
+    {
+      "id": 5,
+      "productName": "Hijab Wanita",
+      "rating": 4,
+      "price": 50000,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwaKY_J0rtqsLX4ASOeF0Jjty4ipPzA4J_I-zpZx3NCWEyIf41SlEQoir5OzO51bT32p4&usqp=CAU",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "tag": "fashion"
+    },
+    {
+      "id": 6,
+      "productName": "Baju wanita berhijab",
+      "rating": 4,
+      "price": 70000,
+      "image": "https://i.pinimg.com/originals/09/93/51/0993515369682e6ce2e79335bd59ef1e.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "tag": "fashion"
+    },
+    {
+      "id": 7,
+      "productName": "Macbook pro",
+      "rating": 4,
+      "price": 21000000,
+      "image": "https://macstore.id/konten/uploads/2020/12/mbp-silver-gallery2-202011_GEO_US.jpeg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "tag": "gadget"
+    },
+    {
+      "id": 8,
+      "productName": "Jam tangan emas",
+      "rating": 4,
+      "price": 650000,
+      "image": "https://sijoritoday.com/wp-content/uploads/2022/08/IMG-20220821-WA0000.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "tag": "accessories"
+    }
+  ]
+}
