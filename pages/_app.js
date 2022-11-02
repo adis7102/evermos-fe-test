@@ -5,6 +5,7 @@ import { Provider } from 'react-redux';
 import rootReducer from "../store";
 
 import '../styles/globals.css';
+import '../styles/ProductCard.scss';
 import '../styles/ProductList.scss';
 import '../styles/ProductDetail.scss';
 

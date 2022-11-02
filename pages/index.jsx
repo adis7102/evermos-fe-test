@@ -1,12 +1,14 @@
 import React, { useEffect, useState } from "react";
 import Head from "next/head";
-import Image from "next/image";
+
 import Link from "next/link";
 
 import { useSelector, useDispatch } from "react-redux";
 import { getListData } from "../store/actions";
 import { Button, Spinner } from "react-bootstrap";
-import { currencyFormatter } from "../helpers";
+import fetcher from "../fetch/index.js";
+
+import Card from '../components/ProductCard';
 
 import styles from "../styles/Home.module.css";
 
@@ -81,28 +83,17 @@ export default function Home(props) {
 
       {!loading ? (
         <div className="list-container">
-          {(listProducts || []).map((item, index) => {
+          {(listProducts || []).map(item => {
             const { id, productName, image, price, rating } = item || {};
 
             return (
-              <Link href={`${id}`}>
-                <div className="product-card" key={index}>
-                  <div className="product-card-image">
-                    <Image
-                      alt={`${productName}`}
-                      src={image}
-                      width={260}
-                      height={150}
-                    />
-                  </div>
-                  <div className="product-card-content">
-                    <div className="product-card-content-title">
-                      {productName}
-                    </div>
-                    <p className="product-card-content-price">{currencyFormatter(price, 'indonesia')}</p>
-                    <p className="product-card-content-rating">Rating: <span className="rating-number">{rating}</span></p>
-                  </div>
-                </div>
+              <Link key={id} href={`${id}`}>
+                <Card
+                  productname={productName}
+                  image={image}
+                  price={price}
+                  rating={rating}
+                />
               </Link>
             );
           })}
@@ -120,8 +111,10 @@ export default function Home(props) {
 }
 
 export async function getServerSideProps() {
-  const response = await fetch("http://localhost:4000/products");
-  const data = await response.json();
+  const response = await fetcher("http://localhost:4000/products", {
+    method: "GET"
+  });
+  const data = await response;
 
   return {
     props: {

@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "productName": "Jam tangan emas",
+      "productName": "Jam tangan emas 1",
       "rating": 4,
       "price": 650000,
       "image": "https://sijoritoday.com/wp-content/uploads/2022/08/IMG-20220821-WA0000.jpg",
@@ -29,9 +29,9 @@
     },
     {
       "id": 4,
-      "productName": "Macbook pro",
+      "productName": "Macbook pro 2022",
       "rating": 4,
-      "price": 21000000,
+      "price": 28000000,
       "image": "https://macstore.id/konten/uploads/2020/12/mbp-silver-gallery2-202011_GEO_US.jpeg",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "tag": "gadget"
@@ -56,7 +56,7 @@
     },
     {
       "id": 7,
-      "productName": "Macbook pro",
+      "productName": "Macbook pro 2021",
       "rating": 4,
       "price": 21000000,
       "image": "https://macstore.id/konten/uploads/2020/12/mbp-silver-gallery2-202011_GEO_US.jpeg",
@@ -65,9 +65,9 @@
     },
     {
       "id": 8,
-      "productName": "Jam tangan emas",
+      "productName": "Jam tangan emas 2",
       "rating": 4,
-      "price": 650000,
+      "price": 700000,
       "image": "https://sijoritoday.com/wp-content/uploads/2022/08/IMG-20220821-WA0000.jpg",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
       "tag": "accessories"
